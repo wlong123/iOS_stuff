@@ -15,6 +15,7 @@
 		C000514820CFFF930097C4AA /* ios_learningTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C000514720CFFF930097C4AA /* ios_learningTests.swift */; };
 		C000515320CFFF930097C4AA /* ios_learningUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C000515220CFFF930097C4AA /* ios_learningUITests.swift */; };
 		C000516120D056B50097C4AA /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = C000516020D056B50097C4AA /* RatingControl.swift */; };
+		C04CBFAB20D94CF0005BFE5D /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C04CBFAA20D94CF0005BFE5D /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C000515220CFFF930097C4AA /* ios_learningUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_learningUITests.swift; sourceTree = "<group>"; };
 		C000515420CFFF930097C4AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C000516020D056B50097C4AA /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		C04CBFAA20D94CF0005BFE5D /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C000513920CFFF930097C4AA /* Assets.xcassets */,
 				C000513B20CFFF930097C4AA /* LaunchScreen.storyboard */,
 				C000513E20CFFF930097C4AA /* Info.plist */,
+				C04CBFAA20D94CF0005BFE5D /* Meal.swift */,
 			);
 			path = "ios learning";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C04CBFAB20D94CF0005BFE5D /* Meal.swift in Sources */,
 				C000513520CFFF900097C4AA /* ViewController.swift in Sources */,
 				C000516120D056B50097C4AA /* RatingControl.swift in Sources */,
 				C000513320CFFF900097C4AA /* AppDelegate.swift in Sources */,
